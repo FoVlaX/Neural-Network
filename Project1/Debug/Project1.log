@@ -1,0 +1,4 @@
+﻿main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) void __cdecl Magick::InitializeMagick(char const *)" (__imp_?InitializeMagick@Magick@@YAXPBD@Z) в функции _main
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall Magick::ColorRGB::ColorRGB(void)" (__imp_??0ColorRGB@Magick@@QAE@XZ) в функции _main
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: virtual __thiscall Magick::ColorRGB::~ColorRGB(void)" (__imp_??1ColorRGB@Magick@@UAE@XZ) в функции _main
+C:\Users\vlad\source\repos\Project1\Debug\Project1.exe : fatal error LNK1120: неразрешенных внешних элементов: 3
